@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change its color to red",
+        "message_id": "guest27092024102754",
+        "timestamp": "27092024102755",
+        "component_file_name": "dark_footer_component_1726738241",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
