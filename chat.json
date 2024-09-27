@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which specific elements of the app do you want to change to red (e.g., buttons, background, text)?\", \"option1\": \"Buttons and icons\", \"option2\": \"Background and text\"}, {\"question 2\": \"Do you want the red color to have a specific shade (e.g., bright red, dark red, or something else)?\", \"option1\": \"Bright red\", \"option2\": \"Dark red or custom shade\"}], \"input_token_count\": 266, \"output_token_count\": 107, \"time_taken\": \"0:00:01.527942\"}",
+        "message_id": "guest27092024102754",
+        "timestamp": "27092024102802",
+        "component_file_name": "dark_footer_component_1726738241",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'm working on changing the color to red.",
         "message_id": "guest27092024102754",
